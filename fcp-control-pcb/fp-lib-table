@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "AONR21321")(type "KiCad")(uri "${KIPRJMOD}/Symbols/AONR21321.pretty")(options "")(descr "")(disabled))
+  (lib (name "LM311DR")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LM311DR.pretty")(options "")(descr "")(disabled))
+  (lib (name "Symbols")(type "KiCad")(uri "${KIPRJMOD}/Symbols.pretty")(options "")(descr "")(disabled))
+  (lib (name "custom")(type "KiCad")(uri "${KIPRJMOD}/Symbols/custom.pretty")(options "")(descr ""))
+  (lib (name "L01Z050S05")(type "KiCad")(uri "${KIPRJMOD}/Symbols/L01Z050S05.pretty")(options "")(descr ""))
+)

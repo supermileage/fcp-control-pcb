@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L01Z050S05
+D Board Mount Current Sensors CURRENT SENSOR ( 50A; +5V)
+K
+F https://www.mouser.com/datasheet/2/397/L01ZXXXS05-274998.pdf
+$ENDCMP
+#
+#End Doc Library

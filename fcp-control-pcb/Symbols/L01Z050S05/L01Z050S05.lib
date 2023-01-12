@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model L01Z050S05
+#/1384243/187015/2.49/3/4/Integrated Circuit
+DEF L01Z050S05 IC 0 30 Y Y 1 F N
+F0 "IC" 1250 300 50 H V L CNN
+F1 "L01Z050S05" 1250 200 50 H V L CNN
+F2 "L01Z050S05" 1250 100 50 H I L CNN
+F3 "https://www.mouser.com/datasheet/2/397/L01ZXXXS05-274998.pdf" 1250 0 50 H I L CNN
+F4 "Board Mount Current Sensors CURRENT SENSOR ( 50A; +5V)" 1250 -100 50 H I L CNN "Description"
+F5 "" 1250 -200 50 H I L CNN "Height"
+F6 "Tamura" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "L01Z050S05" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "838-L01Z050S05" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Tamura/L01Z050S05?qs=UO2oIyMggj%252Bpy1oyw7hC2g%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 1250 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 1250 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X VOUT 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X +VCC_(+5V) 3 1400 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
