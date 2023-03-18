@@ -3399,11 +3399,11 @@
     (path "/c190d89e-9712-4d18-b416-ca3a4a623235/5b7d8c7f-5eea-4160-8e45-4a31b91a477d"
       (reference "#PWR0128") (unit 1) (value "+5VA") (footprint "")
     )
-    (path "/c190d89e-9712-4d18-b416-ca3a4a623235/8b3aa1c7-f4a1-41b8-8ec9-7ff395b37bc5"
-      (reference "#PWR0129") (unit 1) (value "VCC") (footprint "")
+    (path "/c190d89e-9712-4d18-b416-ca3a4a623235/9aca65a9-3052-4a86-bbf1-5077ce335577"
+      (reference "#PWR0129") (unit 1) (value "GNDA") (footprint "")
     )
-    (path "/c190d89e-9712-4d18-b416-ca3a4a623235/ac25b8eb-78fa-4ce8-a4ba-3331fe607dc2"
-      (reference "#PWR0130") (unit 1) (value "GND") (footprint "")
+    (path "/c190d89e-9712-4d18-b416-ca3a4a623235/b3989580-bbcb-4057-8952-abc10c94d7ab"
+      (reference "#PWR0130") (unit 1) (value "+12VA") (footprint "")
     )
     (path "/c190d89e-9712-4d18-b416-ca3a4a623235/b9dff352-9b04-406b-9e4d-204d3acfd829"
       (reference "#PWR0131") (unit 1) (value "+5VA") (footprint "")
@@ -3413,6 +3413,15 @@
     )
     (path "/3b950b8b-dd84-4237-8506-4ff50a3a4397"
       (reference "#PWR0133") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/c190d89e-9712-4d18-b416-ca3a4a623235/f3f5cc7c-1edc-41a6-a553-ad25d43111bb"
+      (reference "#PWR0134") (unit 1) (value "+12VA") (footprint "")
+    )
+    (path "/c190d89e-9712-4d18-b416-ca3a4a623235/4d62ea81-e10b-4db2-a094-4904e8829929"
+      (reference "#PWR0135") (unit 1) (value "GNDA") (footprint "")
+    )
+    (path "/c190d89e-9712-4d18-b416-ca3a4a623235/23717e30-6fc0-4955-8ffc-563322d3f549"
+      (reference "#PWR0136") (unit 1) (value "GNDA") (footprint "")
     )
     (path "/12a6d88d-0117-4608-9eec-b1e0463959b2"
       (reference "#PWR0169") (unit 1) (value "GND") (footprint "")
@@ -3554,6 +3563,9 @@
     )
     (path "/c190d89e-9712-4d18-b416-ca3a4a623235/f5514620-1416-4fbe-9c50-dcac23663d60"
       (reference "J16") (unit 1) (value "ExtraAnalogs") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/c190d89e-9712-4d18-b416-ca3a4a623235/a21849c4-2b85-4961-8ebe-e204cd0c56e5"
+      (reference "J17") (unit 1) (value "AnalogPower") (footprint "Connector_Molex:Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal")
     )
     (path "/89ca3b49-22e8-4df1-b22c-e546915de50f"
       (reference "L1") (unit 1) (value "47 uH") (footprint "Inductor_SMD:L_Coilcraft_LPS4018")
